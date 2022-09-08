@@ -1,3 +1,6 @@
+Garrett Kilpatrick
+ID: 20393125
+
 Short Answer Section
 
 1. A getter is a way of letting the user access a private member variable,
