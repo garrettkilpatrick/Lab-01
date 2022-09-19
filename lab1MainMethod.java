@@ -33,7 +33,7 @@ public class lab1MainMethod
             DivSales[] divSalesObjects = new DivSales[2];
             divSalesObjects[0] = new DivSales(div0Parsed[0], div0Parsed[1], div0Parsed[2], div0Parsed[3]);
             divSalesObjects[1] = new DivSales(div1Parsed[0], div1Parsed[1], div1Parsed[2], div1Parsed[3]);
-            
+          // THROWS COMPILATION ERROR IN THIS LINE 
             divSalesObjects[0].quarters(divSalesObjects);
             
             
